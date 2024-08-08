@@ -4,7 +4,7 @@
 ## Description
 The data is multi-scene noise data, covering subway, supermarket, restaurant, road, airport, exhibition hall, high-speed rail, highway, city road, cinema and other daily life scenes.The data is recorded by the professional recorder Sony ICD-UX560F, which is collected in a high sampling rate and two-channel format, and the recording is clear and natural. The valid data is 101 hours.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/25?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/25?source=Github
 
 
 ## Format
